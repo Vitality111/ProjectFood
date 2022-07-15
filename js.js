@@ -39,7 +39,7 @@
 
 //   //timer
 
-//   const deadline = "2022-05-19";
+//   const deadline = "2023-05-19";
 //   function getTimeRemaning(endtime) {
 //     const t = Date.parse(endtime) - Date.parse(new Date()),
 //       days = Math.floor(t / (1000 * 60 * 60 * 24)),
